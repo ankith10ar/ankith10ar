@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 I am Ankith Reddy, a Full Stack Developer with 4+ years of Experience. Throughout my professional journey, I've had the privilege of working with both SaaS and PaaS products, honing my skills in Java development with a specialization in the Spring Boot framework. My Full Stack Developer role, spanning over three years, has allowed me to master the intricacies of frontend technologies, including AngularJS, ReactJS, Angular, and OJET. I'm equally comfortable working with both JavaScript and TypeScript, adapting to the needs of the project at hand.
+
 What fuels my enthusiasm for software development is the thrill of coding and seeing my creations come to life. The sense of achievement when my code is deployed to production, impacting millions of users, is truly unparalleled. I thrive on solving problems and am always eager to take on new challenges.
+
 Beyond the world of coding, I nurture a personal dream of achieving financial freedom and exploring the wonders of our world through travel. Join me on this exciting journey where innovation meets dedication, and every line of code tells a story of progress and achievement.
 
 <!--
